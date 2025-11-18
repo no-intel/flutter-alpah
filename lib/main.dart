@@ -14,7 +14,7 @@ class SplashScreen extends StatelessWidget {
             color: Colors.blue,
           ),
           child: Center(
-            child: Text("Splash Screen"),
+            child: Image.asset('assets/logo.jpg')
           ),
         ),
       ),
